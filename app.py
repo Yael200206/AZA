@@ -4,6 +4,8 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, simpledialog, scrolledtext
 from PIL import Image, ImageTk, ImageDraw
 import json
+
+
 import os
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
